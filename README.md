@@ -19,6 +19,7 @@ A blockchain is a technology that records and shares data over a network, such a
 ## Advantages of Blockchain
 
 The main advantage of blockchain in decentralization.  Decentralization might sound technical, but its definition in the context of blockchain is just this: a process by which computers around the world copy and maintain a blockchain. These computers might consist of the local machines of Bitcoin users, for example. Unlike a centralized financial system that has one authoritative ledger to record all transactions, the ledger of a blockchain is distributed across all the computers that have a copy of the blockchain. All these computers update the ledger with the current transactions, and no single authority monitors the ledger for problematic transactions. Instead, the blockchain technology itself has fraud prevention built in.
+
 !["decentralization"](https://github.com/NikivanDyck/Blockchain_with_Python/blob/main/Blockchain_approch.png)
 
 There are different types of black chain such as  permissioned  a blockchain has a trusted, third-party arbiter, and permission less blockchain doesn’t have a central authority to provide trust. In Permission less blockchain people place their trust in the prespecified rules of the blockchain, which are the incentives that keep the users acting appropriately. Bitcoin is an example of a permission less blockchain.  If in the case the people disagree in the mapping of a blockchain a fork creating the new rule is created. This is my trust is important within the block chain process.    
