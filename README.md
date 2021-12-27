@@ -27,7 +27,7 @@ There are different types of black chain such as  permissioned  a blockchain has
 In a ledger that a DataFrame or table represents, each row represents a new entry in the ledger. Similarly, in a ledger that a blockchain represents, each block represents a new entry in the ledger. A block is the most fundamental data structure of the blockchain. It’s essentially a container that holds data. In a blockchain, new entries can be added only to the end of the ledger. That is, a new block can be added only to the end of the chain.
 
 ## Blockchain with Python Data Class 
-Attached in this Git hub you will find a blockchain created by Python data classes
+Attached in this Git hub you will find a blockchain created in Python, launched via Stremlit
 
 
 ## Appendix:  
