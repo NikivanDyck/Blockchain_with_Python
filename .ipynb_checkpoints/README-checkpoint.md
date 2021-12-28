@@ -1,6 +1,6 @@
 # Blockchain
 
-!["blockchain"] (https://www.researchgate.net/profile/Mischa-Tripoli-2/publication/327867089/figure/fig1/AS:674742302416897@1537882509356/Traditional-centralised-ledger-and-a-distributed-ledger.png)
+!["blockchain"](https://github.com/NikivanDyck/Blockchain_with_Python/blob/main/Blockchain.png)
 
 
 ## Blockchain Fundamentals
@@ -20,12 +20,17 @@ A blockchain is a technology that records and shares data over a network, such a
 
 The main advantage of blockchain in decentralization.  Decentralization might sound technical, but its definition in the context of blockchain is just this: a process by which computers around the world copy and maintain a blockchain. These computers might consist of the local machines of Bitcoin users, for example. Unlike a centralized financial system that has one authoritative ledger to record all transactions, the ledger of a blockchain is distributed across all the computers that have a copy of the blockchain. All these computers update the ledger with the current transactions, and no single authority monitors the ledger for problematic transactions. Instead, the blockchain technology itself has fraud prevention built in.
 
+!["decentralization"](https://github.com/NikivanDyck/Blockchain_with_Python/blob/main/Blockchain_approch.png)
+
 There are different types of black chain such as  permissioned  a blockchain has a trusted, third-party arbiter, and permission less blockchain doesn’t have a central authority to provide trust. In Permission less blockchain people place their trust in the prespecified rules of the blockchain, which are the incentives that keep the users acting appropriately. Bitcoin is an example of a permission less blockchain.  If in the case the people disagree in the mapping of a blockchain a fork creating the new rule is created. This is my trust is important within the block chain process.    
 
-In a ledger that a DataFrame or table represents, each row represents a new entry in the ledger. Similarly, in a ledger that a blockchain represents, each block represents a new entry in the ledger. A block is the most fundamental data structure of the blockchain. It’s essentially a container that holds data. In a blockchain, new entries can be added only to the end of the ledger. That is, a new block can be added only to the end of the chain.
+In a ledger that a DataFrame or table represents, each row represents a new entry in the ledger. Similarly, in a ledger that a blockchain represents, each block represents a new entry in the ledger. A block is the most fundamental data structure of the blockchain. It’s essentially a container that holds data. In a multiple-node system, such as a decentralized blockchain, the software logic must evolve with the complexity of the network. The number of nodes and how they’re connected and organized influences three main factors. These consist of how we distribute copies of the ledger, who gets to add new records to the ledger, and how we keep the copies synchronized with each other. In a blockchain, new entries can be added only to the end of the ledger. That is, a new block can be added only to the end of the chain.
 
 ## Blockchain with Python Data Class 
-Attached in this Git hub you will find a blockchain created by Python data classes
+Attached in this Git hub you will find a blockchain created in Python, launched via Stremlit
+
+## Blockchain Networks 
+A network is simply a collection of computers that connect to each other in some way. This connection can occur through the internet, over your local WiFi, or even via a physical cable that connects two computers. A blockchain network is composed of all the distributed computers, or nodes, that run a copy of the blockchain. The four most-common types of blockchain networks: public, private, semiprivate, and consortium. Public or permissionless blockchains have no access restrictions. Anyone with an internet connection can send transactions and validate them. A private, or permissioned, blockchain is the opposite—the blockchain users must be invited. A semiprivate, or hybrid, blockchain combines the two in some way. A consortium blockchain has restricted access, like a semiprivate blockchain, but consists of two or more groups working together for a common purpose.
 
 
 ## Appendix:  
